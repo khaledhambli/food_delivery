@@ -89,7 +89,7 @@ class _FoodPageBodyState extends State<FoodPageBody> {
     }
 
       return Transform(
-          transform: matrix,    //ce qui est sené appliquer les transformations de taille aux containers
+          transform: matrix,    //ce qui est sensé appliquer les transformations de taille aux containers
           child: Stack(
               children: [
                 Container(
